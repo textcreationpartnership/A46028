@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Sr. William Waller, the Lord Grey, and Sir Thomas Armstrong, and of several others fled from justice in a letter from Amsterdam, to his friend in London.</title>
+            <author>I. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46028</idno>
+            <idno type="STC">Wing I3A</idno>
+            <idno type="STC">ESTC R15658</idno>
+            <idno type="EEBO-CITATION">11849505</idno>
+            <idno type="OCLC">ocm 11849505</idno>
+            <idno type="VID">49897</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Sr. William Waller, the Lord Grey, and Sir Thomas Armstrong, and of several others fled from justice in a letter from Amsterdam, to his friend in London.</title>
+                  <author>I. C.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Maket,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: I.C.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, d. 1699.</term>
+               <term>Armstrong, Thomas, --  Sir, 1624?-1684.</term>
+               <term>Stamford, Thomas Grey, --  Earl of, 1654-1720.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49897:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <head>NEVVS FROM S<hi rend="sup">r.</hi> 
+               <hi>William Waller,</hi> THE Lord Grey, AND <hi rend="sup">Sir.</hi> 
+               <hi>Thomas Armſtrong,</hi> And of Several others Fled from JUSTICE, In a Letter from <hi>Amſterdam.</hi> To his Friend in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Sr.</salute>
+            </opener>
+            <p>THe horrid villanous Conſpiracie of the Sectaries and Republicans in <hi>England,</hi> is now become the diſ<g ref="char:EOLhyphen"/>courſe of other Countrys, and our <hi>Flemiſh</hi> Bretheren of of the ſame Leven, do outwardly ſhew their deteſtation of ſuch Barbarous Principles, with a ſeeming grief, that Men profeſſing themſelves the moſt reformed in Religi<g ref="char:EOLhyphen"/>on and Manners, ſhould own and juſtifie, ſuch actions as would make an <hi>Jnfidel</hi> or an <hi>Heathen</hi> bluſh to be ſuſpect<g ref="char:EOLhyphen"/>ed guilty of.</p>
+            <p>But when I call to mind ſome miſcariages of the ſame Party' in times paſt, and their diſpoſitions that attended ſuch miſcariages (though never ſo villanous) I always obſerved their grief rather to proceed from the diſapoint<g ref="char:EOLhyphen"/>ment, than the leaſt remorſe for the Breach of thoſe Fen<g ref="char:EOLhyphen"/>ces that principally ſecure humane ſociety.</p>
+            <p>In the laſt letter I received from the Northeren parts, I was adviſed from my correſpondent at <hi>Breman.</hi> That the late famous Sr. <hi>William Waller,</hi> (after all his ſhifting in theſe parts) had acquired the dignity of a Governour in that litle Common Wealth, and is upon a Capitulation
+<pb n="2" facs="tcp:49897:2"/>
+               <!-- PDF PAGE 37 -->
+with the Senate there, for removing ſeveral Engliſh Merchants with their Effects from <hi>Hambourgh</hi> thither; &amp; endeavors to perſwade thoſe States that his Intreſt with the godly ſober Party in <hi>England</hi> (as he ſtiles them) is ſuf<g ref="char:EOLhyphen"/>ficient to prevail, with the chief Heads of the Faction there to follow the example of their <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbourgh</hi> Brethren: &amp; by thoſe means in a ſhort time, to make <hi>Bremen,</hi> compare with any City of this part of the World, in point of Trade, Strength, and Riches. But when I conſider, that almoſt every week in this place, produces freſh Faces of the ſame Party from <hi>England,</hi> and that many of them make it their buſineſs to become free <hi>Bourghers</hi> of this City. I am apt to believe the Party give litle heed to the ſeeming pleaſant charms of the litle Conjurer of <hi>Bremen,</hi> &amp; rather look upon the Air of <hi>Amſterdam,</hi> to be the more ſweet, pleaſant, healthful and ſafer place of the two; Beſides the infallable conveniency, of being certain to find any Re<g ref="char:EOLhyphen"/>ligion here that might be loſt on a journey hither, which is a neceſſary ſatisfaction to any man that makes a Trade of it, of which thoſe that are lately Arrived from <hi>England</hi> upon that account, and that ſeem to be of the chiefeſt note, are as followeth.</p>
+            <p>
+               <hi>Francis Smith, John Starkey, Bookſellers, John VVilmer,</hi> a <hi>Leather ſeller,</hi> Mr. <hi>Emerton,</hi> lately Chriſtned, Dr. <hi>Temple</hi> a Phi<g ref="char:EOLhyphen"/>ſician; Convict for Treaſon, Mr. <hi>Dare</hi> a <hi>Goldſmith</hi> out-lawed <hi>Alliſon</hi> a Scotch Gentleman, broke Gaol, <hi>Guttery</hi> a Scotchman, a Shooe<g ref="char:EOLhyphen"/>maker and Preacher, by Trade was one of the <hi>Cargalits,</hi> and 100. pound Sterling ſet on his Head, for any that could ap<g ref="char:EOLhyphen"/>prehend him <hi>&amp;c. John VValters, a Marriner,</hi> late of St. <hi>Katherin's excommunicated; John Briſco</hi> and <hi>Edward Whitacre <g ref="char:V">Ʋ</g>pholſterers,</hi> The abovenamed Perſons were at the procurement of one <hi>Abraham Keck,</hi> (being the Perſon at whoſe Houſe the late Earl of <hi>Shafts<g ref="char:EOLhyphen"/>bury,</hi> dyed) preſented to the States of this City, and by them ac<g ref="char:EOLhyphen"/>cepted, and made free Bourghers thereof. There was alſo one <hi>William Lewis</hi> (ſaid to be an Evidence by his Trade) endeavored to be admitted with thoſe that were to have a freedom here, his Petetion was rejected, there being no want of his profeſſion in this place, after whieh I was told he is Herded amongſt the <hi>Jews:</hi> hav<g ref="char:EOLhyphen"/>ing ſuffered himſelf to be Circumciſed, and quite Abandons that company he came over with.</p>
+            <p>It is likewiſe ſaid here that the Lord <hi>Grey, Sr. Tho. Armſtrong,</hi> and <hi>Ayliff,</hi> who are fled from Juſtice in <hi>England,</hi> are at <hi>Cleves,</hi> a City belonging to the Duke of <hi>Brandenburgh;</hi> And the weather begin<g ref="char:EOLhyphen"/>ing to break more of the ſaid Party are daily expected from <hi>England,</hi> Of which as often as any of them are admitted to our Freedom, I ſhall not forget to give you a particular, or of any other matter that may be worthy of your note. In the mean time be pleaſed to give me leave to Subſcribe my ſelf.</p>
+            <closer>
+               <signed>Your moſt humble Servant, <hi>I C.</hi>
+               </signed>
+               <dateline>Amſterdam New-ſtile, <date>Feb. the 16th. 1684.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed by <hi>E Maket</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
